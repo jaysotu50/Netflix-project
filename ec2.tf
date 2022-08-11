@@ -1,2 +1,3 @@
 # code to create EC2
-# t-2-micro
+# type --> t2-micro
+# OS --> Windows
